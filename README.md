@@ -36,10 +36,10 @@ Welcome to the **Expense Tracker Web Application**! This project is designed to 
 ├── tailwind.config.js
 └── README.md
 
---- 
+```
 
 
-###Expense Tracker Web App
+### Expense Tracker Web App
 
 An **Expense Tracker Web App** built with **React** and styled using **Tailwind CSS** to efficiently track and manage your expenses.
 
