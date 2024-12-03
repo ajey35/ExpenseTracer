@@ -43,7 +43,7 @@ Welcome to the **Expense Tracker Web Application**! This project is designed to 
 
 An **Expense Tracker Web App** built with **React** and styled using **Tailwind CSS** to efficiently track and manage your expenses.
 
-##🤝 Contributions
+### 🤝 Contributions
 
 We welcome contributions to improve this project! Whether it's fixing bugs, adding new features, or enhancing the UI, your efforts are highly valued.
 
