@@ -1,8 +1,13 @@
 {
+  "homepage": "https://ajey35.github.io/ExpenseTracer",
   "name": "reactproj",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
+}
  
   "dependencies": {
     "react": "^18.3.1",
