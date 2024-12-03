@@ -1,14 +1,13 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/NavBar";
 import HomePage from "./Pages/Home";
 import About from "./pages/About";
-import CreateTransaction from "./Pages/CreateTransaction";
-import Dashboard from "./Pages/DashBoard";
-import Help from "./pages/Help";
+import CreateTransaction from "./Pages/CreateTransaction"
+import Dashboard from "./Pages/DashBoard"
+import Help  from './Pages/Help'
 import { ExpenseProvider } from "./context/ExpenseContext";
-
 const App = () => (
-  <ExpenseProvider>
+  <ExpenseProvider> 
     <Router>
       <Navbar />
       <Routes>
