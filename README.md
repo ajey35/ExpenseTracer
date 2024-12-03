@@ -53,8 +53,7 @@ Feel free to contribute by following these steps:
 2. Create a new branch:
    ```bash
    git checkout -b feature-name
-
-
+   ```
 
 ### Key Features:
 - **Easy-to-Understand Structure**: Each section is clearly defined and includes actionable instructions.
